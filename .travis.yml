@@ -3,4 +3,4 @@ jdk:
    - openjdk11
 install:
    - mvn -N io.takari:maven:wrapper
-   - ./demo/mvnw clean install
+   - ./mvnw clean install
